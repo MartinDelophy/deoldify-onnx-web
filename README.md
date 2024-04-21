@@ -1,7 +1,7 @@
 [![ONNX](https://img.shields.io/badge/ONNX-grey)](https://onnx.ai/)
 
 # deoldify-onnx-web
-old photo colorize
+old photo image colorize
 [英文文档](./README.md)｜[中文文档](./README_CN.md)
 
 <img src="./2x.png" alt="Latency Comparison" width=200>

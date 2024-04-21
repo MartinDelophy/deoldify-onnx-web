@@ -6,6 +6,8 @@
 <img src="./2x.png" alt="Latency Comparison" width=40%>
 <img src="./2x-after.png" alt="Latency Comparison" width=40%>
 
+# 安装方式
+你可以到发布页面，下载 deoldify.quant.onnx 文件，之后把它放到models目录即可
 
 ## onnx 量化导出
 我将原有的deoldify模型下载下来并进行了量化导出

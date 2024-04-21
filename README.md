@@ -4,8 +4,8 @@
 old photo colorize
 [英文文档](./README.md)｜[中文文档](./README_CN.md)
 
-<img src="./2x.png" alt="Latency Comparison" width=100>
-<img src="./2x-after.png" alt="Latency Comparison" width=100>
+<img src="./2x.png" alt="Latency Comparison" width=300>
+<img src="./2x-after.png" alt="Latency Comparison" width=300>
 
 # install
 you can go release page and download the model, then put it into models folder
